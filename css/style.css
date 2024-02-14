@@ -165,4 +165,8 @@ img {
     .steps .col {
         width: 100%;
     }
+
+    .col{
+        margin-top: 40px;
+    }
 }
